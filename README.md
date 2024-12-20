@@ -24,6 +24,23 @@
 
 1. `Fork` this repository and `clone` it to your local.
 2. Navigate to the `submissions` folder and create a new folder named after your GitHub username: `YourName`.
-3. Copy the Template.md file into the newly created folder and rename it to your name: `YourName.md`.
-4. Open the `learn/YourName/YourName.md` file, fill in your information as instructed, and save it.
+3. Copy the [Template.md](./template.md) file into the newly created folder and rename it to your name: `YourName.md`.
+4. Open the `submissions/YourName/YourName.md` file, fill in your information as instructed, and save it.
 5. Submit a `PR` to this repository. Once your PR is merged, your GitHub registration is complete.
+6. After you complete the registration process, please join in the [Discord channel]().
+
+## Preparation
+- After you complete the registration process, please join in the [Discord channel]().
+- Please prepare your AR wallet -- [Arconnect](https://www.arconnect.io/)
+- An Arweave AO relevant documentation list -- [awesome-ao](https://github.com/ArweaveOasis/awesome-ao)
+- Arweave block explorer -- [viewblock](https://viewblock.io/arweave)
+- AO explorer -- [aolink](https://www.ao.link/)
+
+## Task Submission
+Each module in this course corresponds to 1-2 tasks. Check the task list [here](). To submit `task1`, follow these steps:
+
+1. Create a `task1` folder under `submissions/YourName`.
+2. Place your task files inside the `task1` folder. You can also create a `readme.md` file to organize your task content. (Submission of learning notes and reflections is encouraged.)
+3. Submit a `PR` (Pull Request) to this repository. Once the `PR` is merged, `task1` will be considered complete.
+
+⚠️ Each **Task** must be submitted separately. A single `PR` containing multiple **Tasks** will be closed directly.
