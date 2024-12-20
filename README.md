@@ -2,10 +2,10 @@
 <!-- [中文](https://github.com/ArweaveOasis/Arweave-AO-Dev-Learning/blob/main/README_CN.md) / English -->
 
 
-# Awesome Academy
+# Arweave Academy
 <div>
   <p>
-   Your one-stop journey to mastering Arweave AO development
+   Your one-stop journey to mastering Arweave AO development, organized by ArweaveOasis.
   </p>
   <p>
     <a href="https://x.com/ArweaveEco"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/ArweaveEco?label=ArweaveEco%20Follow"></a>
