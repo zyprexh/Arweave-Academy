@@ -17,10 +17,12 @@
 
 
 ## Overview
- This Arweave Academy is part of the developer education program's Level 1. We offer developers free, high-quality courses and practical tasks to help them start building applications on Arweave and AO from scratch. After completing the learning program, capable developers can participate in the Best Practices Contest, with Forward Research supporting a XXXX reward for the winner.
+This Arweave Academy is part of the developer education program's Level 1. We offer developers free, high-quality courses and practical tasks to help them start building applications on Arweave and AO from scratch. After completing the learning program, capable developers can participate in the Best Practices Contest, with Forward Research supporting a XXXX reward for the winner.
 
- ## Registration
- Developers need to complete GitHub registration by following these steps:
+<br>
+
+## Registration
+Developers need to complete GitHub registration by following these steps:
 
 1. `Fork` this repository and `clone` it to your local.
 2. Navigate to the `submissions` folder and create a new folder named after your GitHub username: `YourName`.
@@ -29,12 +31,16 @@
 5. Submit a `PR` to this repository. Once your PR is merged, your GitHub registration is complete.
 6. After you complete the registration process, please join in the [Discord channel]().
 
+<br>
+
 ## Preparation
 - After you complete the registration process, please join in the [Discord channel]().
 - Please prepare your AR wallet -- [Arconnect](https://www.arconnect.io/)
 - An Arweave AO relevant documentation list -- [awesome-ao](https://github.com/ArweaveOasis/awesome-ao)
 - Arweave block explorer -- [viewblock](https://viewblock.io/arweave)
 - AO explorer -- [aolink](https://www.ao.link/)
+
+<br>
 
 ## Task Submission
 This course will be conducted with one module per week, and each module has 1-2 tasks. Check the task list [here](#tasks). To submit `task1`, follow these steps:
@@ -44,6 +50,8 @@ This course will be conducted with one module per week, and each module has 1-2 
 3. Submit a `PR` (Pull Request) to this repository. Once the `PR` is merged, `task1` will be considered complete.
 
 ⚠️ Each **Task** must be submitted separately. A single `PR` containing multiple **Tasks** will be closed directly.
+
+<br>
 
 ## Course Guideline
 
