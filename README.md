@@ -24,7 +24,7 @@ This Arweave Academy is part of the developer education program's Level 1. We of
 ## Registration
 Developers need to complete GitHub registration by following these steps:
 
-1. `Fork` this repository and `clone` it to your local.
+1. `star` and `Fork` this repository and `clone` it to your local.
 2. Navigate to the `submissions` folder and create a new folder named after your GitHub username: `YourName`.
 3. Copy the [Template.md](./template.md) file into the newly created folder and rename it to your name: `YourName.md`.
 4. Open the `submissions/YourName/YourName.md` file, fill in your information as instructed, and save it.
