@@ -17,7 +17,9 @@
 
 
 ## Overview
-This Arweave Academy is part of the developer education program's Level 1. We offer developers free, high-quality courses and practical tasks to help them start building applications on Arweave and AO from scratch. After completing the learning program, capable developers can participate in the Best Practices Contest, with Forward Research supporting a XXXX reward for the winner.
+This Arweave Academy is part of the developer education program's Level 1. We offer developers free, high-quality courses and practical tasks to help them start building applications on Arweave and AO from scratch.
+
+After completing the learning program, capable developers can participate in the Best Practices Contest, with Forward Research supporting a XXXX reward for the winner.
 
 <br>
 
