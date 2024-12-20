@@ -1,5 +1,1 @@
 # ArweaveAcademy
-
-TDB
-
-TB
