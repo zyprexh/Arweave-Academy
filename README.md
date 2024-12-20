@@ -37,10 +37,28 @@
 - AO explorer -- [aolink](https://www.ao.link/)
 
 ## Task Submission
-Each module in this course corresponds to 1-2 tasks. Check the task list [here](). To submit `task1`, follow these steps:
+This course will be conducted with one module per week, and each module has 1-2 tasks. Check the task list [here](#tasks). To submit `task1`, follow these steps:
 
 1. Create a `task1` folder under `submissions/YourName`.
 2. Place your task files inside the `task1` folder. You can also create a `readme.md` file to organize your task content. (Submission of learning notes and reflections is encouraged.)
 3. Submit a `PR` (Pull Request) to this repository. Once the `PR` is merged, `task1` will be considered complete.
 
 ⚠️ Each **Task** must be submitted separately. A single `PR` containing multiple **Tasks** will be closed directly.
+
+## Course Guideline
+
+
+
+
+<br>
+
+## Tasks
+Developers who complete all the courses and submit the tasks for this session will receive a Level 1 NFT. If you collect all 4 Levels of NFTs in the future, you will be awarded a final graduation certificate and become a priority candidate in our talent pool, gaining access to more ecosystem job opportunities.
+| Task | Phase | Topic | Reward | Status |
+|-------|-------|-------|-------|-------|
+| [task1](./task/task1.md) | Week 1 | --- | NFT | Preparing |
+| [task2](./task/task2.md) | Week 2 | --- | NFT | Preparing | 
+| [task3](./task/task3.md) | Week 3 | --- | NFT | Preparing |
+| [task4](./task/task4.md) | Week 4 | --- | NFT | Preparing |
+
+<br>
