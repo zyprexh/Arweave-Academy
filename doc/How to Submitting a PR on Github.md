@@ -6,52 +6,52 @@ Contributing to open-source projects is a great way to improve your coding skill
 - Go to the [Arweave-Academy](https://github.com/ArweaveOasis/Arweave-Academy) repository on GitHub which is produced by Arweave Oasis.
 - Click the **`Fork`** button at the top right corner to create your copy of the repository.
 
-![PR tutorial fork](https://github.com/ArweaveOasis/Arweave-Academy/blob/d35b6f2237f81702f38a3b5996541085b9bbcb36/doc/image/PR%20tutorial_fork_1.png)
+  ![PR tutorial fork](https://github.com/ArweaveOasis/Arweave-Academy/blob/d35b6f2237f81702f38a3b5996541085b9bbcb36/doc/image/PR%20tutorial_fork_1.png)
 
-![PR tutorial fork](https://github.com/ArweaveOasis/Arweave-Academy/blob/d35b6f2237f81702f38a3b5996541085b9bbcb36/doc/image/PR%20tutorial_fork_2.png)
+  ![PR tutorial fork](https://github.com/ArweaveOasis/Arweave-Academy/blob/d35b6f2237f81702f38a3b5996541085b9bbcb36/doc/image/PR%20tutorial_fork_2.png)
 
 - You can find the repository you have forked in your Github account.
 
-![PR tutorial fork3](https://github.com/ArweaveOasis/Arweave-Academy/blob/d35b6f2237f81702f38a3b5996541085b9bbcb36/doc/image/PR%20tutorial_fork_3.png)
+  ![PR tutorial fork3](https://github.com/ArweaveOasis/Arweave-Academy/blob/d35b6f2237f81702f38a3b5996541085b9bbcb36/doc/image/PR%20tutorial_fork_3.png)
 
 ### **2. Clone Your Fork**
 
 - Copy the repository URL from your forked repository.
 
-![PR tutorial fork3](https://github.com/ArweaveOasis/Arweave-Academy/blob/d35b6f2237f81702f38a3b5996541085b9bbcb36/doc/image/Clone%20tutorial_fork_1.png)
+  ![PR tutorial fork3](https://github.com/ArweaveOasis/Arweave-Academy/blob/d35b6f2237f81702f38a3b5996541085b9bbcb36/doc/image/Clone%20tutorial_fork_1.png)
 
 - Open your terminal and run:
-``` bash
-git clone <repository-url>
-## Exmple:  git clone https://github.com/gerrywang1117/Arweave-Academy.git
-```
+  ``` bash
+  git clone <repository-url>
+  ## Exmple:  git clone https://github.com/gerrywang1117/Arweave-Academy.git
+  ```
 
-![PR tutorial fork3](https://github.com/ArweaveOasis/Arweave-Academy/blob/d35b6f2237f81702f38a3b5996541085b9bbcb36/doc/image/Clone%20tutorial_fork_2.png)
+  ![PR tutorial fork3](https://github.com/ArweaveOasis/Arweave-Academy/blob/d35b6f2237f81702f38a3b5996541085b9bbcb36/doc/image/Clone%20tutorial_fork_2.png)
 
 ### **3. Set Upstream Remote**
 
 - Navigate to the cloned directory:
-``` bash
-cd <repository-folder>
-## Example:  cd Arweave-Academy
-```
+  ``` bash
+  cd <repository-folder>
+  ## Example:  cd Arweave-Academy
+  ```
 
 - Verify the remotes:
 
-``` bash
-git remote -v
-```
-![PR tutorial fork3](https://github.com/ArweaveOasis/Arweave-Academy/blob/d35b6f2237f81702f38a3b5996541085b9bbcb36/doc/image/Clone%20tutorial_fork_3.png)
+  ``` bash
+  git remote -v
+  ```
+  ![PR tutorial fork3](https://github.com/ArweaveOasis/Arweave-Academy/blob/d35b6f2237f81702f38a3b5996541085b9bbcb36/doc/image/Clone%20tutorial_fork_3.png)
 
 - As we can see, the connection has been established. Next, we need to connect to the upstream, which refers to the original project source that was forked initially, in this case, Arweave-Academy.
 
-``` bash
-git remote add upstream <original-repository-url>
-## Example:  git remote add upstream https://github.com/ArweaveOasis/Arweave-Academy.git
-```
+  ``` bash
+  git remote add upstream <original-repository-url>
+  ## Example:  git remote add upstream https://github.com/ArweaveOasis/Arweave-Academy.git
+  ```
 - At this point, if we enter git remote -v, we can see that the local repository is now connected to both the remote repository and the upstream.
 
-![PR tutorial fork3](https://github.com/ArweaveOasis/Arweave-Academy/blob/d35b6f2237f81702f38a3b5996541085b9bbcb36/doc/image/push%20tutorial_fork_1.png)
+  ![PR tutorial fork3](https://github.com/ArweaveOasis/Arweave-Academy/blob/d35b6f2237f81702f38a3b5996541085b9bbcb36/doc/image/push%20tutorial_fork_1.png)
 
 ### 4. Update the Latest Code
 
@@ -86,33 +86,33 @@ Why do we do this? Because while you’re developing, others might also be worki
     git push origin main
     ```
     
-    ![push tutorial_fork_1.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/9b7140be-ab46-4dec-b214-2f3e22f5fd3b/2564ceda-2bfa-48a0-827b-ecf30d2445d9/push_tutorial_fork_1.png)
+    ![push tutorial_fork_1.png](https://github.com/ArweaveOasis/Arweave-Academy/blob/d35b6f2237f81702f38a3b5996541085b9bbcb36/doc/image/push%20tutorial_fork_1.png)
     
 
 ### **7. Open a Pull Request**
 
 - Go to the original repository on GitHub. Click the **Pull Requests** tab.
     
-    ![PR tutorial_submission_1.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/9b7140be-ab46-4dec-b214-2f3e22f5fd3b/25f5b6fe-5b36-40c0-a1e8-e0862fc1571f/PR_tutorial_submission_1.png)
+    ![PR tutorial_submission_1.png](https://github.com/ArweaveOasis/Arweave-Academy/blob/d35b6f2237f81702f38a3b5996541085b9bbcb36/doc/image/PR%20tutorial_submission_1.png)
     
 - Click **New Pull Request**.
     
-    ![PR tutorial_submission_2.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/9b7140be-ab46-4dec-b214-2f3e22f5fd3b/cbbb61bb-3645-42de-b699-ee1bf96609cf/PR_tutorial_submission_2.png)
+    ![PR tutorial_submission_2.png](https://github.com/ArweaveOasis/Arweave-Academy/blob/d35b6f2237f81702f38a3b5996541085b9bbcb36/doc/image/PR%20tutorial_submission_2.png)
     
 - Click **Create Pull Request.**
     
-    ![PR tutorial_submission_3.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/9b7140be-ab46-4dec-b214-2f3e22f5fd3b/2dae6f3a-4e9f-4ac0-96c6-a78ef1a9e4a3/PR_tutorial_submission_3.png)
+    ![PR tutorial_submission_3.png](https://github.com/ArweaveOasis/Arweave-Academy/blob/d35b6f2237f81702f38a3b5996541085b9bbcb36/doc/image/PR%20tutorial_submission_3.png)
     
 - Write a clear title and description for your PR, explaining what you’ve changed and why. Then Submit the Pull Request.
     
-    ![PR tutorial_submission_4.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/9b7140be-ab46-4dec-b214-2f3e22f5fd3b/94a16532-3afd-4740-8cc2-dc6b2ad5fed4/PR_tutorial_submission_4.png)
+    ![PR tutorial_submission_4.png](https://github.com/ArweaveOasis/Arweave-Academy/blob/d35b6f2237f81702f38a3b5996541085b9bbcb36/doc/image/PR%20tutorial_submission_4.png)
     
 
 ### **8. Celebrate Your Contribution**
 
 - Wait for maintainers to review your PR and merge to the main repository.
 
-![PR tutorial_submission_5.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/9b7140be-ab46-4dec-b214-2f3e22f5fd3b/81016512-0341-433e-a104-b495f8cee7c1/PR_tutorial_submission_5.png)
+![PR tutorial_submission_5.png](https://github.com/ArweaveOasis/Arweave-Academy/blob/d35b6f2237f81702f38a3b5996541085b9bbcb36/doc/image/PR%20tutorial_submission_5.png)
 
 - Once your PR is merged, congratulations! You’ve successfully join in the event.
 
