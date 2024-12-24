@@ -1,4 +1,4 @@
-## How to Submitting a Pull Request (PR) on GitHub: 
+## How to Submit a Pull Request (PR) on GitHub: 
 Contributing to open-source projects is a great way to improve your coding skills, collaborate with others, and give back to the community. In this developer online education event, we will also encourage you to participate by submitting Pull Request (PR). Here’s a step-by-step guide.
 
 
@@ -10,7 +10,7 @@ Contributing to open-source projects is a great way to improve your coding skill
 
   ![PR tutorial fork 2](https://github.com/ArweaveOasis/Arweave-Academy/blob/d35b6f2237f81702f38a3b5996541085b9bbcb36/doc/image/PR%20tutorial_fork_2.png)
 
-- You can find the repository you have forked in your Github account.
+- You can find the repository you have forked in your GitHub account.
 
   ![PR tutorial fork 3](https://github.com/ArweaveOasis/Arweave-Academy/blob/d35b6f2237f81702f38a3b5996541085b9bbcb36/doc/image/PR%20tutorial_fork_3.png)
 
@@ -23,7 +23,7 @@ Contributing to open-source projects is a great way to improve your coding skill
 - Open your terminal and run:
   ``` bash
   git clone <repository-url>
-  ## Exmple:  git clone https://github.com/gerrywang1117/Arweave-Academy.git
+  ## Exmaple:  git clone https://github.com/gerrywang1117/Arweave-Academy.git
   ```
 
   ![clone tutorial fork2](https://github.com/ArweaveOasis/Arweave-Academy/blob/d35b6f2237f81702f38a3b5996541085b9bbcb36/doc/image/Clone%20tutorial_fork_2.png)
@@ -49,13 +49,13 @@ Contributing to open-source projects is a great way to improve your coding skill
   git remote add upstream <original-repository-url>
   ## Example:  git remote add upstream https://github.com/ArweaveOasis/Arweave-Academy.git
   ```
-- At this point, if we enter git remote -v, we can see that the local repository is now connected to both the remote repository and the upstream.
+- At this point, if we enter `git remote -v`, we can see that the local repository is now connected to both the remote repository and the upstream.
 
   ![upsteam tutorial fork1](https://github.com/ArweaveOasis/Arweave-Academy/blob/d35b6f2237f81702f38a3b5996541085b9bbcb36/doc/image/Upsteam%20tutorial_fork_1.png)
 
 ### 4. Update the Latest Code
 
-Why do we do this? Because while you’re developing, others might also be working on the project. It’s likely that the code you forked is no longer up-to-date. In such cases, you need to continuously update your code, ensuring that you update it at least once before pushing. This helps prevent code conflicts.
+Why do we do this? Because while you’re developing, others might also be working on the project. It’s likely that the code you forked is no longer up-to-date. In such cases, you need to continuously update your code, ensuring that you update it at least once before pushing. This ensures that code conflicts are minimized.
 
 ```bash
  git fetch upstream main
@@ -64,7 +64,7 @@ Why do we do this? Because while you’re developing, others might also be worki
 ### **5. Make Changes**
 
 - Edit the code or documentation in your local repository.
-- Test your changes to ensure they work as intended.
+- Thoroughly test your changes to ensure they function as intended.
 - Stage your changes:
     
     ```bash
@@ -80,7 +80,7 @@ Why do we do this? Because while you’re developing, others might also be worki
 
 ### **6. Push Changes to Your Fork**
 
-- Push your changes to your forked repository. You will be able to update all the changes you made to your forked version.
+- Push your changes to your forked repository. This allows you to push all changes to your forked repository.
     
     ```bash
     git push origin main
@@ -103,7 +103,7 @@ Why do we do this? Because while you’re developing, others might also be worki
     
     ![PR tutorial_submission_3.png](https://github.com/ArweaveOasis/Arweave-Academy/blob/d35b6f2237f81702f38a3b5996541085b9bbcb36/doc/image/PR%20tutorial_submission_3.png)
     
-- Write a clear title and description for your PR, explaining what you’ve changed and why. Then Submit the Pull Request.
+- Write a clear title and description for your PR, explaining what you’ve changed and why. Then submit the Pull Request.
     
     ![PR tutorial_submission_4.png](https://github.com/ArweaveOasis/Arweave-Academy/blob/d35b6f2237f81702f38a3b5996541085b9bbcb36/doc/image/PR%20tutorial_submission_4.png)
     
@@ -114,7 +114,7 @@ Why do we do this? Because while you’re developing, others might also be worki
 
   ![PR tutorial_submission_5.png](https://github.com/ArweaveOasis/Arweave-Academy/blob/d35b6f2237f81702f38a3b5996541085b9bbcb36/doc/image/PR%20tutorial_submission_5.png)
 
-- Once your PR is merged, congratulations! You’ve successfully join in the event.
+- Once your PR is merged, congratulations! You’ve successfully joined the event.
 
 <br>
 
