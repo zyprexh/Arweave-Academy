@@ -56,7 +56,7 @@ This course will be conducted with one module per week, and each module has 1-2 
 <br>
 
 ## Course Guideline
-
+TBD
 
 
 
