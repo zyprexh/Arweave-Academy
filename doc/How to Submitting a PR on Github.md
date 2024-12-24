@@ -8,8 +8,11 @@ Contributing to open-source projects is a great way to improve your coding skill
 
 ![PR tutorial fork](https://github.com/ArweaveOasis/Arweave-Academy/blob/d35b6f2237f81702f38a3b5996541085b9bbcb36/doc/image/PR%20tutorial_fork_1.png)
 
+![PR tutorial fork](https://github.com/ArweaveOasis/Arweave-Academy/blob/d35b6f2237f81702f38a3b5996541085b9bbcb36/doc/image/PR%20tutorial_fork_2.png)
+
 - You can find the repository you have forked in your Github account.
 
+![PR tutorial fork3](https://github.com/ArweaveOasis/Arweave-Academy/blob/d35b6f2237f81702f38a3b5996541085b9bbcb36/doc/image/PR%20tutorial_fork_3.png)
 ### **2. Clone Your Fork**
 
 - Copy the repository URL from your forked repository.
