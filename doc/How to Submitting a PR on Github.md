@@ -6,19 +6,19 @@ Contributing to open-source projects is a great way to improve your coding skill
 - Go to the [Arweave-Academy](https://github.com/ArweaveOasis/Arweave-Academy) repository on GitHub which is produced by Arweave Oasis.
 - Click the **`Fork`** button at the top right corner to create your copy of the repository.
 
-  ![PR tutorial fork](https://github.com/ArweaveOasis/Arweave-Academy/blob/d35b6f2237f81702f38a3b5996541085b9bbcb36/doc/image/PR%20tutorial_fork_1.png)
+  ![PR tutorial fork 1](https://github.com/ArweaveOasis/Arweave-Academy/blob/d35b6f2237f81702f38a3b5996541085b9bbcb36/doc/image/PR%20tutorial_fork_1.png)
 
-  ![PR tutorial fork](https://github.com/ArweaveOasis/Arweave-Academy/blob/d35b6f2237f81702f38a3b5996541085b9bbcb36/doc/image/PR%20tutorial_fork_2.png)
+  ![PR tutorial fork 2](https://github.com/ArweaveOasis/Arweave-Academy/blob/d35b6f2237f81702f38a3b5996541085b9bbcb36/doc/image/PR%20tutorial_fork_2.png)
 
 - You can find the repository you have forked in your Github account.
 
-  ![PR tutorial fork3](https://github.com/ArweaveOasis/Arweave-Academy/blob/d35b6f2237f81702f38a3b5996541085b9bbcb36/doc/image/PR%20tutorial_fork_3.png)
+  ![PR tutorial fork 3](https://github.com/ArweaveOasis/Arweave-Academy/blob/d35b6f2237f81702f38a3b5996541085b9bbcb36/doc/image/PR%20tutorial_fork_3.png)
 
 ### **2. Clone Your Fork**
 
 - Copy the repository URL from your forked repository.
 
-  ![PR tutorial fork3](https://github.com/ArweaveOasis/Arweave-Academy/blob/d35b6f2237f81702f38a3b5996541085b9bbcb36/doc/image/Clone%20tutorial_fork_1.png)
+  ![clone tutorial fork1](https://github.com/ArweaveOasis/Arweave-Academy/blob/d35b6f2237f81702f38a3b5996541085b9bbcb36/doc/image/Clone%20tutorial_fork_1.png)
 
 - Open your terminal and run:
   ``` bash
@@ -26,7 +26,7 @@ Contributing to open-source projects is a great way to improve your coding skill
   ## Exmple:  git clone https://github.com/gerrywang1117/Arweave-Academy.git
   ```
 
-  ![PR tutorial fork3](https://github.com/ArweaveOasis/Arweave-Academy/blob/d35b6f2237f81702f38a3b5996541085b9bbcb36/doc/image/Clone%20tutorial_fork_2.png)
+  ![clone tutorial fork2](https://github.com/ArweaveOasis/Arweave-Academy/blob/d35b6f2237f81702f38a3b5996541085b9bbcb36/doc/image/Clone%20tutorial_fork_2.png)
 
 ### **3. Set Upstream Remote**
 
@@ -41,7 +41,7 @@ Contributing to open-source projects is a great way to improve your coding skill
   ``` bash
   git remote -v
   ```
-  ![PR tutorial fork3](https://github.com/ArweaveOasis/Arweave-Academy/blob/d35b6f2237f81702f38a3b5996541085b9bbcb36/doc/image/Clone%20tutorial_fork_3.png)
+  ![clone tutorial fork3](https://github.com/ArweaveOasis/Arweave-Academy/blob/d35b6f2237f81702f38a3b5996541085b9bbcb36/doc/image/Clone%20tutorial_fork_3.png)
 
 - As we can see, the connection has been established. Next, we need to connect to the upstream, which refers to the original project source that was forked initially, in this case, Arweave-Academy.
 
@@ -51,7 +51,7 @@ Contributing to open-source projects is a great way to improve your coding skill
   ```
 - At this point, if we enter git remote -v, we can see that the local repository is now connected to both the remote repository and the upstream.
 
-  ![PR tutorial fork3](https://github.com/ArweaveOasis/Arweave-Academy/blob/d35b6f2237f81702f38a3b5996541085b9bbcb36/doc/image/push%20tutorial_fork_1.png)
+  ![Push tutorial fork1](https://github.com/ArweaveOasis/Arweave-Academy/blob/d35b6f2237f81702f38a3b5996541085b9bbcb36/doc/image/push%20tutorial_fork_1.png)
 
 ### 4. Update the Latest Code
 
@@ -116,11 +116,10 @@ Why do we do this? Because while you’re developing, others might also be worki
 
 - Once your PR is merged, congratulations! You’ve successfully join in the event.
 
+<br>
+
 
 **Tips for Successful Contributions:**
-
-•	Be respectful and patient when communicating with maintainers.
-
-•	Follow the project’s coding style and guidelines.
-
-•	Make small, focused changes rather than large, complex updates.
+- Be respectful and patient when communicating with maintainers.
+- Follow the project’s coding style and guidelines.
+- Make small, focused changes rather than large, complex updates.
