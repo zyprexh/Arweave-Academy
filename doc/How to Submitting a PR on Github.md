@@ -51,7 +51,7 @@ Contributing to open-source projects is a great way to improve your coding skill
   ```
 - At this point, if we enter git remote -v, we can see that the local repository is now connected to both the remote repository and the upstream.
 
-  ![Push tutorial fork1](https://github.com/ArweaveOasis/Arweave-Academy/blob/d35b6f2237f81702f38a3b5996541085b9bbcb36/doc/image/push%20tutorial_fork_1.png)
+  ![upsteam tutorial fork1](https://github.com/ArweaveOasis/Arweave-Academy/blob/d35b6f2237f81702f38a3b5996541085b9bbcb36/doc/image/Upsteam%20tutorial_fork_1.png)
 
 ### 4. Update the Latest Code
 
