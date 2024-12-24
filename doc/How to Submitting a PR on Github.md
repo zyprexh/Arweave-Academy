@@ -13,6 +13,25 @@ Contributing to open-source projects is a great way to improve your coding skill
 - You can find the repository you have forked in your Github account.
 
 ![PR tutorial fork3](https://github.com/ArweaveOasis/Arweave-Academy/blob/d35b6f2237f81702f38a3b5996541085b9bbcb36/doc/image/PR%20tutorial_fork_3.png)
+
 ### **2. Clone Your Fork**
 
 - Copy the repository URL from your forked repository.
+
+![PR tutorial fork3](https://github.com/ArweaveOasis/Arweave-Academy/blob/d35b6f2237f81702f38a3b5996541085b9bbcb36/doc/image/Clone%20tutorial_fork_1.png)
+
+- Open your terminal and run:
+``` bash
+git clone <repository-url>
+## Exmple:  git clone https://github.com/gerrywang1117/Arweave-Academy.git
+```
+
+![PR tutorial fork3](https://github.com/ArweaveOasis/Arweave-Academy/blob/d35b6f2237f81702f38a3b5996541085b9bbcb36/doc/image/Clone%20tutorial_fork_2.png)
+
+### **3. Set Upstream Remote**
+
+- Navigate to the cloned directory:
+``` bash
+cd <repository-folder>
+## Example:  cd Arweave-Academy
+```
