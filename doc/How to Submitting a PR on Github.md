@@ -112,7 +112,7 @@ Why do we do this? Because while you’re developing, others might also be worki
 
 - Wait for maintainers to review your PR and merge to the main repository.
 
-![PR tutorial_submission_5.png](https://github.com/ArweaveOasis/Arweave-Academy/blob/d35b6f2237f81702f38a3b5996541085b9bbcb36/doc/image/PR%20tutorial_submission_5.png)
+  ![PR tutorial_submission_5.png](https://github.com/ArweaveOasis/Arweave-Academy/blob/d35b6f2237f81702f38a3b5996541085b9bbcb36/doc/image/PR%20tutorial_submission_5.png)
 
 - Once your PR is merged, congratulations! You’ve successfully join in the event.
 
