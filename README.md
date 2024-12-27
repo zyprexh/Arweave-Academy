@@ -36,7 +36,7 @@ flowchart LR
     B --> C{Join the Event}
     
     C -->| Learning | D[Learn the Courses] --> E[Submit Tasks]
-    C -->| Practice | F[Participate in Practice Contest]
+    C -->| Practice | F[Practice Contest]
 
     B:::clickableLink
       class B clickableLink;
@@ -46,6 +46,10 @@ flowchart LR
       class D clickableLink;
       click D "https://github.com/ArweaveOasis/Arweave-Academy#course-guideline" "Go to Course Guideline Step"
     
+    E:::clickableLink
+      class E clickableLink;
+      click E "https://github.com/ArweaveOasis/Arweave-Academy#task-submission" "Go to Course Guideline Step"
+
     style C fill:#FFF9C4,color:#000000,stroke:#000000
 
 ```
@@ -62,6 +66,12 @@ Developers need to complete GitHub registration by following these steps:
 
 <br>
 
+## Course Guideline
+The specific course details will be announced on **January 6, 2025**.
+
+
+<br>
+
 ## Task Submission
 This course will be conducted with one module per week, and each module has 1-2 tasks. Check the task list [here](#tasks). To submit `task1`, follow these steps:
 
@@ -70,15 +80,6 @@ This course will be conducted with one module per week, and each module has 1-2 
 3. Submit a `PR` (Pull Request) to this repository. Once the `PR` is merged, `task1` will be considered complete.
 
 ⚠️ Each **Task** must be submitted separately. A single `PR` containing multiple **Tasks** will be closed directly.
-
-<br>
-
-## Course Guideline
-The specific course details will be announced on **January 6, 2025**.
-
-
-
-<br>
 
 ## Tasks
 Developers who complete all the courses and submit the tasks for this session will receive a Level 1 NFT. If you collect all 4 Levels of NFTs in the future, you will be awarded a final graduation certificate and become a priority candidate in our talent pool, gaining access to more ecosystem job opportunities.
