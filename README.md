@@ -44,7 +44,7 @@ flowchart LR
 
     D:::clickableLink
       class D clickableLink;
-      click D "[course guideline](#course-guideline)" "Go to Course Guideline Step"
+      click D "https://github.com/ArweaveOasis/Arweave-Academy#course-guideline" "Go to Course Guideline Step"
     
     style C fill:#FFF9C4,color:#000000,stroke:#000000
 
