@@ -9,8 +9,7 @@
   </p>
   <p>
     <a href="https://x.com/ArweaveEco"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/ArweaveEco"></a>
-    <a href="https://x.com/aoTheComputer"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/AO
-    "></a>
+    <a href="https://x.com/aoTheComputer"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/AO"></a>
     <a href="https://x.com/fwdresearch"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/fwdresearch"></a>
     <a href="https://x.com/ArweaveOasis"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/ArweaveOasis"></a>
   </p>
