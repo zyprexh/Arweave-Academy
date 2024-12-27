@@ -54,7 +54,6 @@ flowchart LR
 <br>
 
 ## Preparation
-- Please join in the [Discord channel](https://discord.gg/U5qjMKpu).
 - Please prepare your AR wallet -- [Arconnect](https://www.arconnect.io/)
 - An all-in-one Arweave AO relevant documentation list -- [awesome-ao](https://github.com/ArweaveOasis/awesome-ao)
 - Arweave block explorer -- [viewblock](https://viewblock.io/arweave)
@@ -70,7 +69,7 @@ Developers need to complete GitHub registration by following these steps:
 3. Copy the [Template.md](./template.md) file into the newly created folder and rename it to your name: `YourName.md`.
 4. Open the `submissions/YourName/YourName.md` file, fill in your information as instructed, and save it.
 5. Submit a `PR` to this repository. Once your PR is merged, your GitHub registration is complete. | [How to Submitting a PR on Github](./doc/How%20to%20Submitting%20a%20PR%20on%20Github.md)
-6. After you complete the registration process, please join in the [Discord channel]().
+6. After you complete the registration process, please join in the [Discord channel](https://discord.gg/U5qjMKpu).
 
 <br>
 
