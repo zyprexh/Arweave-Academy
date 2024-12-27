@@ -22,7 +22,33 @@ This Arweave Academy is part of the developer education program's Level 1. We of
 
 After completing the learning program, capable developers can participate in the Best Practices Contest, with Forward Research supporting a XXXX reward for the winner.
 
-<br>
+
+## Preparation
+- Please join in the [Discord channel](https://discord.gg/U5qjMKpu).
+- Please prepare your AR wallet -- [Arconnect](https://www.arconnect.io/)
+- An Arweave AO relevant documentation list -- [awesome-ao](https://github.com/ArweaveOasis/awesome-ao)
+- Arweave block explorer -- [viewblock](https://viewblock.io/arweave)
+- AO explorer -- [aolink](https://www.ao.link/)
+
+```mermaid
+flowchart LR
+    A[Develeoper] --> B[Registration]
+    B --> C{Join the Event}
+    
+    C -->| Learning | D[Learn the Courses] --> E[Submit Tasks]
+    C -->| Practice | F[Participate in Practice Contest]
+
+    B:::clickableLink
+      class B clickableLink;
+      click B "https://github.com/ArweaveOasis/Arweave-Academy#registration" "Go to Registration Step"
+
+    D:::clickableLink
+      class D clickableLink;
+      click D "[course guideline](#course-guideline)" "Go to Course Guideline Step"
+    
+    style C fill:#FFF9C4,color:#000000,stroke:#000000
+
+```
 
 ## Registration
 Developers need to complete GitHub registration by following these steps:
@@ -33,15 +59,6 @@ Developers need to complete GitHub registration by following these steps:
 4. Open the `submissions/YourName/YourName.md` file, fill in your information as instructed, and save it.
 5. Submit a `PR` to this repository. Once your PR is merged, your GitHub registration is complete. | [How to Submitting a PR on Github](./doc/How%20to%20Submitting%20a%20PR%20on%20Github.md)
 6. After you complete the registration process, please join in the [Discord channel]().
-
-<br>
-
-## Preparation
-- After you complete the registration process, please join in the [Discord channel]().
-- Please prepare your AR wallet -- [Arconnect](https://www.arconnect.io/)
-- An Arweave AO relevant documentation list -- [awesome-ao](https://github.com/ArweaveOasis/awesome-ao)
-- Arweave block explorer -- [viewblock](https://viewblock.io/arweave)
-- AO explorer -- [aolink](https://www.ao.link/)
 
 <br>
 
