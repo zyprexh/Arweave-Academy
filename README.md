@@ -22,13 +22,11 @@ This Arweave Academy is part of the developer education program's Level 1. We of
 
 After completing the learning program, capable developers can participate in the Best Practices Contest, with Forward Research supporting a XXXX reward for the winner.
 
+We divided this event into two parts: one for beginners and one for advanced developers.
+- Developers who are new to the Arweave and AO ecosystems can enter the Learning section, where they will complete their learning by studying courses and submitting tasks.
+- For advanced developers, they can directly participate in the Practice section, which is a competition. You can choose a topic of your interest from the challange list and complete the practice by developing and writing tutorials. The best practices will be selected by judges and rewarded. 
 
-## Preparation
-- Please join in the [Discord channel](https://discord.gg/U5qjMKpu).
-- Please prepare your AR wallet -- [Arconnect](https://www.arconnect.io/)
-- An Arweave AO relevant documentation list -- [awesome-ao](https://github.com/ArweaveOasis/awesome-ao)
-- Arweave block explorer -- [viewblock](https://viewblock.io/arweave)
-- AO explorer -- [aolink](https://www.ao.link/)
+The specific process is shown in the diagram below:
 
 ```mermaid
 flowchart LR
@@ -53,6 +51,16 @@ flowchart LR
     style C fill:#FFF9C4,color:#000000,stroke:#000000
 
 ```
+<br>
+
+## Preparation
+- Please join in the [Discord channel](https://discord.gg/U5qjMKpu).
+- Please prepare your AR wallet -- [Arconnect](https://www.arconnect.io/)
+- An all-in-one Arweave AO relevant documentation list -- [awesome-ao](https://github.com/ArweaveOasis/awesome-ao)
+- Arweave block explorer -- [viewblock](https://viewblock.io/arweave)
+- AO explorer -- [aolink](https://www.ao.link/)
+
+<br>
 
 ## Registration
 Developers need to complete GitHub registration by following these steps:
@@ -80,6 +88,8 @@ This course will be conducted with one module per week, and each module has 1-2 
 3. Submit a `PR` (Pull Request) to this repository. Once the `PR` is merged, `task1` will be considered complete.
 
 ⚠️ Each **Task** must be submitted separately. A single `PR` containing multiple **Tasks** will be closed directly.
+
+<br>
 
 ## Tasks
 Developers who complete all the courses and submit the tasks for this session will receive a Level 1 NFT. If you collect all 4 Levels of NFTs in the future, you will be awarded a final graduation certificate and become a priority candidate in our talent pool, gaining access to more ecosystem job opportunities.
