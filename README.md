@@ -13,7 +13,7 @@
     <a href="https://x.com/fwdresearch"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/fwdresearch"></a>
     <a href="https://x.com/ArweaveOasis"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/ArweaveOasis"></a>
   </p>
-  <img src="xxxxx" style="margin: 0 auto 40px;" />
+  <img src="https://github.com/ArweaveOasis/Arweave-Academy/blob/main/doc/image/school%20of%20dumdum.jpg" style="margin: 0 auto 40px;" />
 </div>
 
 
