@@ -18,9 +18,9 @@
 
 
 ## Overview
-This Arweave Academy is part of the developer education program's Level 1. We offer developers free, high-quality courses and practical tasks to help them start building applications on Arweave and AO from scratch.
+The School of DumDum is a part of Arweave Academy developer education program's. We offer developers free, high-quality courses and practical tasks to help them start building applications on Arweave and AO from scratch.
 
-After completing the learning program, capable developers can participate in the Best Practices Contest, with Forward Research supporting a XXXX reward for the winner.
+After completing the learning program, capable developers can participate in the Best Practices Contest.
 
 We divided this event into two parts: one for beginners and one for advanced developers.
 - Developers who are new to the Arweave and AO ecosystems can enter the Learning section, where they will complete their learning by studying courses and submitting tasks.
