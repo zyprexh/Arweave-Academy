@@ -2,7 +2,7 @@
 <!-- [中文](https://github.com/ArweaveOasis/Arweave-AO-Dev-Learning/blob/main/README_CN.md) / English -->
 
 
-# Arweave Academy
+# School of DumDum
 <div>
   <p>
    Your one-stop journey to mastering Arweave AO development, organized by ArweaveOasis.
