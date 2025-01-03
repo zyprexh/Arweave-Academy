@@ -74,7 +74,7 @@ Developers need to complete GitHub registration by following these steps:
 <br>
 
 ## Course Guideline
-The specific course details will be announced on **January 6, 2025**.
+The specific course details will be announced on **January 8, 2025**.
 
 
 <br>
