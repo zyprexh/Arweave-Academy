@@ -2,7 +2,7 @@
 <!-- [中文](https://github.com/ArweaveOasis/Arweave-AO-Dev-Learning/blob/main/README_CN.md) / English -->
 
 
-# Arweave Academy
+# School of DumDum
 <div>
   <p>
    Your one-stop journey to mastering Arweave AO development, organized by ArweaveOasis.
@@ -18,9 +18,9 @@
 
 
 ## Overview
-This Arweave Academy is part of the developer education program's Level 1. We offer developers free, high-quality courses and practical tasks to help them start building applications on Arweave and AO from scratch.
+The School of DumDum is a part of Arweave Academy developer education program's. We offer developers free, high-quality courses and practical tasks to help them start building applications on Arweave and AO from scratch.
 
-After completing the learning program, capable developers can participate in the Best Practices Contest, with Forward Research supporting a XXXX reward for the winner.
+After completing the learning program, capable developers can participate in the Best Practices Contest.
 
 We divided this event into two parts: one for beginners and one for advanced developers.
 - Developers who are new to the Arweave and AO ecosystems can enter the Learning section, where they will complete their learning by studying courses and submitting tasks.
@@ -69,12 +69,12 @@ Developers need to complete GitHub registration by following these steps:
 3. Copy the [Template.md](./template.md) file into the newly created folder and rename it to your name: `YourName.md`.
 4. Open the `submissions/YourName/YourName.md` file, fill in your information as instructed, and save it.
 5. Submit a `PR` to this repository. Once your PR is merged, your GitHub registration is complete. | [How to Submitting a PR on Github](./doc/How%20to%20Submitting%20a%20PR%20on%20Github.md)
-6. After you complete the registration process, please join in the [Discord channel](https://discord.gg/U5qjMKpu).
+6. After you complete the registration process, please join in the [Discord channel](https://discord.gg/Z7R7Az6T).
 
 <br>
 
 ## Course Guideline
-The specific course details will be announced on **January 6, 2025**.
+The specific course details will be announced on **January 8, 2025**.
 
 
 <br>
