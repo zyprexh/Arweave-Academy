@@ -76,6 +76,14 @@ Developers need to complete GitHub registration by following these steps:
 ## Course Guideline
 The specific course details will be announced on **January 8, 2025**.
 
+### Level 1: Introduction to Arweave and AO
+**Module 1: Understanding Arweave**
+
+<br>
+
+**Module 2: Basic development on Arweave**
+
+
 
 <br>
 
