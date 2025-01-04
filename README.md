@@ -100,11 +100,11 @@ This course will be conducted with one module per week, and each module has 1-2 
 
 ## Tasks
 Developers who complete all the courses and submit the tasks for this session will receive a Level 1 NFT. If you collect all 4 Levels of NFTs in the future, you will be awarded a final graduation certificate and become a priority candidate in our talent pool, gaining access to more ecosystem job opportunities.
-| Task | Phase | Topic | Reward | Status |
-|-------|-------|-------|-------|-------|
-| [task1](./task/task1.md) | Week 1 | --- | NFT | Preparing |
-| [task2](./task/task2.md) | Week 2 | --- | NFT | Preparing | 
-| [task3](./task/task3.md) | Week 3 | --- | NFT | Preparing |
-| [task4](./task/task4.md) | Week 4 | --- | NFT | Preparing |
+| Level | Module | Task | Topic | Reward | Status |
+|-------|--------|-------|-------|-------|------- |
+|   1   |    1   | [task1](./task/task1.md) | --- | NFT | Preparing |
+|       |        | [task2](./task/task2.md) | --- | NFT | Preparing | 
+|       |        | [task3](./task/task3.md) | --- | NFT | Preparing |
+|       |    2   | [task4](./task/task4.md) | --- | NFT | Preparing |
 
 <br>
