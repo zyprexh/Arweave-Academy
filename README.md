@@ -78,9 +78,9 @@ Developers need to complete GitHub registration by following these steps:
 
 
 ## Task Submission
-After each course, there will be a series of tasks. These tasks are the primary way to assess whether you have mastered the course content. Check the task list [here](#tasks). 
+After each course, there will be a series of tasks. These tasks are the primary way to assess whether you have mastered the course content. 
 
-To submit `task1`, follow these steps:
+For example, to submit `task1`, follow these steps:
 
 1. Create a `task1` folder under `submissions/YourName`.
 2. Place your task files inside the `task1` folder. You can also create a `readme.md` file to organize your task content. (Submission of learning notes and reflections is encouraged.)
@@ -120,6 +120,11 @@ The specific course details will be announced on **January 8, 2025**.
 | [task5](./task/task5.md) | 6 Quizs for "Access Data on Arweave" | Not Start | 
 | [task6](./task/task6.md) | 6 Quizs for "Building a static website on Arweave" | Not Start |
 | [task7](./task/task7.md) | 6 Quizs for "Building a static website on Arweave" | Not Start |
+| [task8](./task/task8.md) | 6 Quizs for "Build a Dapp on Arweave" | Not Start |
+| [task9](./task/task9.md) | 6 Quizs for "Build a Dapp on Arweave" | Not Start |
+| [task10](./task/task10.md) | 6 Quizs for "Build a Dapp on Arweave" | Not Start |
+
+<br>
 
 **Module 3: TBD**  
 **Module 4: TBD**
