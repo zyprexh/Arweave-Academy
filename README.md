@@ -86,14 +86,13 @@ For example, to submit `task1`, follow these steps:
 2. Copy the [task1.md](./task/task1.md) file into your `task1` folder. You can also create a `readme.md` file to organize your task content. (Submission of learning notes and reflections is encouraged.)
 3. Answer all the questions in the tasks and fill in the answers in the table at the top of the file.
 4. Submit a `PR` (Pull Request) to this repository. Once the `PR` is merged, `task1` will be considered complete.
+5. ⚠️ Each **Task** must be submitted separately. A single `PR` containing multiple **Tasks** will be closed directly.
 
-⚠️ Each **Task** must be submitted separately. A single `PR` containing multiple **Tasks** will be closed directly.
+Developers who complete all the courses and submit the tasks will receive a Level 1 Certification. If you earn all 4 Levels of Certifications in the future, you will be awarded a **Final Graduation Certificate** and become a priority candidate in our talent pool, gaining access to more job opportunities within the ecosystem.
 
 <br>
 
 ## Course Guideline
-The specific course details will be announced on **January 8, 2025**.
-
 ### Level 1 Introduction to Arweave and AO
 **Module 1: Understanding Arweave**
 
@@ -158,14 +157,21 @@ The specific course details will be announced on **January 8, 2025**.
 
 
 ## Practice
-Developers who complete all the courses and submit the tasks for this session will receive a Level 1 NFT. If you collect all 4 Levels of NFTs in the future, you will be awarded a final graduation certificate and become a priority candidate in our talent pool, gaining access to more ecosystem job opportunities.
-| Level | Module | Task | Topic | Status |
-|-------|--------|-------|-------|-------|
-|   1   |    1   | [task1](./task/task1.md) | --- | Not Start |
-|       |        | [task2](./task/task2.md) | --- | Not Start | 
-|       |        | [task3](./task/task3.md) | --- | Not Start |
-|       |    2   | [task4](./task/task4.md) | --- | Not Start |
-|       |        | [task]() | --- | Not Start |
-|       |        | [task]() | --- | Not Start |
+The Practice section is designed for advanced developers. If you have extensive development experience, why not give it a try?
 
+We will continuously release Practice challenges, and for each challenge, a Best Practice will be selected and merged to the [awesome-ao](https://github.com/ArweaveOasis/awesome-ao) repo. The winner will receive rewards sponsored by Forward Research.
+
+How to submit the challenge:
+1. Create a `challenge1` folder under `submissions/YourName`.
+2. Copy the [challenge1.md](./practice/challenge1.md) file into your `challenge1` folder. You can also create a `readme.md` file to give an introduction about your code. 
+3. Submit a `PR` (Pull Request) to this repository. 
+4. ⚠️ Each **Challenge** must be submitted separately. A single `PR` containing multiple **Challenges** will be closed directly.
+
+
+| Challenge | Type | Tag | Topic | Status |
+|-------|--------|-------|-------|-------|
+|   1   | Frondend |  Arweave   | [File-based Routing](./practice/challenge1.md) | --- |
+|   2   | Frondend |  Arweave    | [Static Site Generation](./practice/challenge2.md) | --- |
+|   3   | Frondend |  Arweave   | [Client-Side Rendering](./practice/challenge3.md) | --- |
+|   4   | Frondend |  Arweave   | [Hash-Based SPA Routing](./practice/challenge4.md) | --- |
 <br>
