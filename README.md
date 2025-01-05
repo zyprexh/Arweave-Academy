@@ -30,8 +30,8 @@ The specific process is shown in the diagram below:
 
 ```mermaid
 flowchart LR
-    A[Develeoper] --> B[Registration]
-    B --> C{Join the Event}
+    
+    B[Developer Registration] --> C{Join the Event}
     
     C -->| Learning | D[Learn the Courses] --> E[Submit Tasks]
     C -->| Practice | F[Practice Contest]
@@ -102,9 +102,11 @@ This course will be conducted with one module per week, and each module has 1-2 
 Developers who complete all the courses and submit the tasks for this session will receive a Level 1 NFT. If you collect all 4 Levels of NFTs in the future, you will be awarded a final graduation certificate and become a priority candidate in our talent pool, gaining access to more ecosystem job opportunities.
 | Level | Module | Task | Topic | Reward | Status |
 |-------|--------|-------|-------|-------|------- |
-|   1   |    1   | [task1](./task/task1.md) | --- | NFT | Preparing |
-|       |        | [task2](./task/task2.md) | --- | NFT | Preparing | 
-|       |        | [task3](./task/task3.md) | --- | NFT | Preparing |
-|       |    2   | [task4](./task/task4.md) | --- | NFT | Preparing |
+|   1   |    1   | [task1](./task/task1.md) | --- | --- | Not Start |
+|       |        | [task2](./task/task2.md) | --- | --- | Not Start | 
+|       |        | [task3](./task/task3.md) | --- | --- | Not Start |
+|       |    2   | [task4](./task/task4.md) | --- | --- | Not Start |
+|       |        | [task]() | --- | --- | Not Start |
+|       |        | [task]() | --- | --- | Not Start |
 
 <br>
