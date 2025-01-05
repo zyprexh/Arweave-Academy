@@ -47,6 +47,10 @@ flowchart LR
     E:::clickableLink
       class E clickableLink;
       click E "https://github.com/ArweaveOasis/Arweave-Academy#task-submission" "Go to Course Guideline Step"
+    
+    F:::clickableLink
+      class F clickableLink;
+      click F "https://github.com/ArweaveOasis/Arweave-Academy#practice" "Go to Course Guideline Step"
 
     style C fill:#FFF9C4,color:#000000,stroke:#000000
 
