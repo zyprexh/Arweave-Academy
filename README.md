@@ -83,8 +83,9 @@ After each course, there will be a series of tasks. These tasks are the primary 
 For example, to submit `task1`, follow these steps:
 
 1. Create a `task1` folder under `submissions/YourName`.
-2. Place your task files inside the `task1` folder. You can also create a `readme.md` file to organize your task content. (Submission of learning notes and reflections is encouraged.)
-3. Submit a `PR` (Pull Request) to this repository. Once the `PR` is merged, `task1` will be considered complete.
+2. Copy the [task1.md](./task/task1.md) file into your `task1` folder. You can also create a `readme.md` file to organize your task content. (Submission of learning notes and reflections is encouraged.)
+3. Answer all the questions in the tasks and fill in the answers in the table at the top of the file.
+4. Submit a `PR` (Pull Request) to this repository. Once the `PR` is merged, `task1` will be considered complete.
 
 ⚠️ Each **Task** must be submitted separately. A single `PR` containing multiple **Tasks** will be closed directly.
 
@@ -156,7 +157,7 @@ The specific course details will be announced on **January 8, 2025**.
 <br>
 
 
-## Tasks
+## Practice
 Developers who complete all the courses and submit the tasks for this session will receive a Level 1 NFT. If you collect all 4 Levels of NFTs in the future, you will be awarded a final graduation certificate and become a priority candidate in our talent pool, gaining access to more ecosystem job opportunities.
 | Level | Module | Task | Topic | Status |
 |-------|--------|-------|-------|-------|
