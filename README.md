@@ -96,13 +96,13 @@ The specific course details will be announced on **January 8, 2025**.
 ### Level 1 Introduction to Arweave and AO
 **Module 1: Understanding Arweave**
 
-1. [Intro to Arweave](https://academy.developerdao.com/tracks/arweave-101/1)
-2. [Store Data on Arweave](https://academy.developerdao.com/tracks/arweave-101/3)
-3. [Why should developers care about Arweave？]()
+1. Intro to Arweave | [Learn](https://academy.developerdao.com/tracks/arweave-101/1)
+2. Store Data on Arweave | [Learn](https://academy.developerdao.com/tracks/arweave-101/3)
+3. Why should developers care about Arweave？| [Learn]()
 
 | Task | Topic | Status |
 |-------|-------|-------|
-| [task1](./task/task1.md) | --- | Not Start |
+| [task1](./task/task1.md) | Six Quizs you have to finish | Not Start |
 | [task2](./task/task2.md) | --- | Not Start | 
 | [task3](./task/task3.md) | --- | Not Start |
 
