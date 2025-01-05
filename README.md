@@ -116,10 +116,10 @@ The specific course details will be announced on **January 8, 2025**.
 
 | Task | Topic | Status |
 |-------|-------|-------|
-| [task4](./task/task1.md) | --- | Not Start |
-| [task5](./task/task2.md) | --- | Not Start | 
-| [task6](./task/task3.md) | --- | Not Start |
-
+| [task4](./task/task4.md) | 6 Quizs for "Access Data on Arweave" | Not Start |
+| [task5](./task/task5.md) | 6 Quizs for "Access Data on Arweave" | Not Start | 
+| [task6](./task/task6.md) | 6 Quizs for "Building a static website on Arweave" | Not Start |
+| [task7](./task/task7.md) | 6 Quizs for "Building a static website on Arweave" | Not Start |
 
 **Module 3: TBD**  
 **Module 4: TBD**
