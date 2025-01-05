@@ -110,9 +110,9 @@ The specific course details will be announced on **January 8, 2025**.
 
 **Module 2: Basic development on Arweave**
 
-1. [Access Data on Arweave](https://academy.developerdao.com/tracks/arweave-101/2)
-2. [Building a static website on Arweave](https://academy.developerdao.com/tracks/arweave-101/4)
-3. [Build a Dapp on Arweave](https://academy.developerdao.com/tracks/arweave-101/5)
+1. Access Data on Arweave | [Learn](https://academy.developerdao.com/tracks/arweave-101/2)
+2. Building a static website on Arweave | [Learn](https://academy.developerdao.com/tracks/arweave-101/4)
+3. Build a Dapp on Arweave | [Learn](https://academy.developerdao.com/tracks/arweave-101/5)
 
 | Task | Topic | Status |
 |-------|-------|-------|
