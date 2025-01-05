@@ -97,14 +97,14 @@ The specific course details will be announced on **January 8, 2025**.
 **Module 1: Understanding Arweave**
 
 1. Intro to Arweave | [Learn](https://academy.developerdao.com/tracks/arweave-101/1)
-2. Store Data on Arweave | [Learn](https://academy.developerdao.com/tracks/arweave-101/3)
+2. Storing Data on Arweave | [Learn](https://academy.developerdao.com/tracks/arweave-101/3)
 3. Why should developers care about Arweave？| [Learn]()
 
 | Task | Topic | Status |
 |-------|-------|-------|
-| [task1](./task/task1.md) | Six Quizs you have to finish | Not Start |
-| [task2](./task/task2.md) | --- | Not Start | 
-| [task3](./task/task3.md) | --- | Not Start |
+| [task1](./task/task1.md) | 6 Quizs for "Intro to Arweave" | Not Start |
+| [task2](./task/task2.md) | 8 Quizs for "Intro to Arweave" | Not Start | 
+| [task3](./task/task3.md) | 9 Quizs for "Storing Data on Arweave" | Not Start |
 
 <br>
 
