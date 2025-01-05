@@ -54,6 +54,7 @@ flowchart LR
 <br>
 
 ## Preparation
+Before participating in the event, here’s what you need to prepare:
 - Please prepare your AR wallet -- [Arconnect](https://www.arconnect.io/)
 - An all-in-one Arweave AO relevant documentation list -- [awesome-ao](https://github.com/ArweaveOasis/awesome-ao)
 - Arweave block explorer -- [viewblock](https://viewblock.io/arweave)
@@ -64,11 +65,13 @@ flowchart LR
 ## Registration
 Developers need to complete GitHub registration by following these steps:
 
-1. `star` and `Fork` this repository and `clone` it to your local.
+1. `Star` and `Fork` this repository and `clone` it to your local.
 2. Navigate to the `submissions` folder and create a new folder named after your GitHub username: `YourName`.
 3. Copy the [Template.md](./template.md) file into the newly created folder and rename it to your name: `YourName.md`.
 4. Open the `submissions/YourName/YourName.md` file, fill in your information as instructed, and save it.
-5. Submit a `PR` to this repository. Once your PR is merged, your GitHub registration is complete. | [How to Submitting a PR on Github](./doc/How%20to%20Submitting%20a%20PR%20on%20Github.md)
+5. Submit a `PR` to this repository. Once your PR is merged, your GitHub registration is complete. 
+
+   👉 Here is the tutorial about [How to Submitting a PR on Github](./doc/How%20to%20Submitting%20a%20PR%20on%20Github.md)
 6. After you complete the registration process, please join in the [Discord channel](https://discord.gg/Z7R7Az6T).
 
 <br>
@@ -102,13 +105,13 @@ The specific course details will be announced on **January 8, 2025**.
 
 ## Tasks
 Developers who complete all the courses and submit the tasks for this session will receive a Level 1 NFT. If you collect all 4 Levels of NFTs in the future, you will be awarded a final graduation certificate and become a priority candidate in our talent pool, gaining access to more ecosystem job opportunities.
-| Level | Module | Task | Topic | Reward | Status |
-|-------|--------|-------|-------|-------|------- |
-|   1   |    1   | [task1](./task/task1.md) | --- | --- | Not Start |
-|       |        | [task2](./task/task2.md) | --- | --- | Not Start | 
-|       |        | [task3](./task/task3.md) | --- | --- | Not Start |
-|       |    2   | [task4](./task/task4.md) | --- | --- | Not Start |
-|       |        | [task]() | --- | --- | Not Start |
-|       |        | [task]() | --- | --- | Not Start |
+| Level | Module | Task | Topic | Status |
+|-------|--------|-------|-------|-------|
+|   1   |    1   | [task1](./task/task1.md) | --- | Not Start |
+|       |        | [task2](./task/task2.md) | --- | Not Start | 
+|       |        | [task3](./task/task3.md) | --- | Not Start |
+|       |    2   | [task4](./task/task4.md) | --- | Not Start |
+|       |        | [task]() | --- | Not Start |
+|       |        | [task]() | --- | Not Start |
 
 <br>
