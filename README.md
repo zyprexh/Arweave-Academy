@@ -78,7 +78,9 @@ Developers need to complete GitHub registration by following these steps:
 
 
 ## Task Submission
-This course will be conducted with one module per week, and each module has 1-2 tasks. Check the task list [here](#tasks). To submit `task1`, follow these steps:
+After each course, there will be a series of tasks. These tasks are the primary way to assess whether you have mastered the course content. Check the task list [here](#tasks). 
+
+To submit `task1`, follow these steps:
 
 1. Create a `task1` folder under `submissions/YourName`.
 2. Place your task files inside the `task1` folder. You can also create a `readme.md` file to organize your task content. (Submission of learning notes and reflections is encouraged.)
@@ -91,14 +93,32 @@ This course will be conducted with one module per week, and each module has 1-2 
 ## Course Guideline
 The specific course details will be announced on **January 8, 2025**.
 
-### Level 1: Introduction to Arweave and AO
+### Level 1 Introduction to Arweave and AO
 **Module 1: Understanding Arweave**
+
+1. [Intro to Arweave](https://academy.developerdao.com/tracks/arweave-101/1)
+2. [Store Data on Arweave](https://academy.developerdao.com/tracks/arweave-101/3)
+3. [Why should developers care about Arweave？]()
+
+| Task | Topic | Status |
+|-------|-------|-------|
+| [task1](./task/task1.md) | --- | Not Start |
+| [task2](./task/task2.md) | --- | Not Start | 
+| [task3](./task/task3.md) | --- | Not Start |
 
 <br>
 
 **Module 2: Basic development on Arweave**
 
+1. [Access Data on Arweave](https://academy.developerdao.com/tracks/arweave-101/2)
+2. [Building a static website on Arweave](https://academy.developerdao.com/tracks/arweave-101/4)
+3. [Build a Dapp on Arweave](https://academy.developerdao.com/tracks/arweave-101/5)
 
+| Task | Topic | Status |
+|-------|-------|-------|
+| [task4](./task/task1.md) | --- | Not Start |
+| [task5](./task/task2.md) | --- | Not Start | 
+| [task6](./task/task3.md) | --- | Not Start |
 
 <br>
 
