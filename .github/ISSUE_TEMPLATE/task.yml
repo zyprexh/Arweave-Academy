@@ -9,7 +9,7 @@ body:
         ### Welcome to the Developer Questionnaire!
         Please answer the following questions to help us improve our platform.
 
-  - type: multiple-choice
+  - type: dropdown
     id: experience
     attributes:
       label: What is your experience level with Arweave development?
@@ -19,7 +19,7 @@ body:
         - Advanced
       required: true
 
-  - type: checkbox
+  - type: dropdown
     id: features
     attributes:
       label: Which features of AO are you most interested in?
