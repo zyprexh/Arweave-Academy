@@ -1,3 +1,10 @@
+Please put your answer here:  
+| 1 | 2 | 3 | 4 | 5 | 6 |
+|----|----|----|----|----|----|
+|   |   |   |   |   |   |
+
+<br>
+
 ### 1. How does your blog update articles if data on Arweave is immutable?
 
 a. It creates a transaction with a new article version and only displays the latest versions.  

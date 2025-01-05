@@ -1,3 +1,10 @@
+Please put your answer here:  
+| 1 | 2 | 3 | 4 | 5 | 6 |
+|----|----|----|----|----|----|
+|   |   |   |   |   |   |
+
+<br>
+
 ### 1. Why do you need Turbo Credits?
 
 a. To upload files to Arweave that are bigger than 100 KiB.  

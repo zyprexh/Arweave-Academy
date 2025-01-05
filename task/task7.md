@@ -1,3 +1,10 @@
+Please put your answer here:  
+| 1 | 2 | 3 | 4 | 5 | 6 |
+|----|----|----|----|----|----|
+|   |   |   |   |   |   |
+
+<br>
+
 ### 1. Why can you deploy a website with a randomly generated wallet?
 
 a. Arweave bundling services subsidize uploads under 100 KiB.  

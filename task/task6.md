@@ -1,3 +1,10 @@
+Please put your answer here:  
+| 1 | 2 | 3 | 4 | 5 | 6 |
+|----|----|----|----|----|----|
+|   |   |   |   |   |   |
+
+<br>
+
 ### 1. What is the goal of Arweave?
 
 a. To provide the world with permanent, immutable storage.  

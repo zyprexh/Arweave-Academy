@@ -1,3 +1,10 @@
+Please put your answer here:  
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
+|----|----|----|----|----|----|----|----|----|
+|   |   |   |   |   |   |   |   |   |
+
+<br>
+
 ### 1. How do you store small files on Arweave?
 
 a. You upload them via a bundling service  

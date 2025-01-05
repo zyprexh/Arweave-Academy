@@ -1,3 +1,10 @@
+Please put your answer here:  
+| 1 | 2 | 3 | 4 | 5 | 6 |
+|----|----|----|----|----|----|
+|   |   |   |   |   |   |
+
+<br>
+
 ### 1. How do you search transactions on Arweave?
 
 a. With the GraphQL endpoint of the gateway nodes.  
