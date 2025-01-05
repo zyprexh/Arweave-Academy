@@ -97,7 +97,17 @@ The specific course details will be announced on **January 8, 2025**.
 **Module 1: Understanding Arweave**
 
 1. Intro to Arweave | [Learn](https://academy.developerdao.com/tracks/arweave-101/1)
+    - What is Arweave?
+    - How does Arweave Work?
+    - Permanent Storage Through Consensus and The Endowment
+    - Arweave Transactions
+    - Smart Contracts as Add-Ons
+
 2. Storing Data on Arweave | [Learn](https://academy.developerdao.com/tracks/arweave-101/3)
+    - How to Store Small Files on Arweave?
+    - What are Popular Arweave Bundling Services and SDKs?
+    - What are Popular Arweave Wallets?
+
 3. Why should developers care about Arweave？| [Learn]()
 
 | Task | Topic | Status |
@@ -111,8 +121,21 @@ The specific course details will be announced on **January 8, 2025**.
 **Module 2: Basic development on Arweave**
 
 1. Access Data on Arweave | [Learn](https://academy.developerdao.com/tracks/arweave-101/2)
+    - How to Access Files on Arweave?
+    - How to Access Directories on Arweave?
+    - How to Find Files on Arweave With GraphQL?
+    - How to Find Files on Arweave With Subdomains?
+
 2. Building a static website on Arweave | [Learn](https://academy.developerdao.com/tracks/arweave-101/4)
+    - Creating Your Website
+    - Deploying Your Website to Arweave
+    - Creating a Human-Friendly Name For Your Website
+
 3. Build a Dapp on Arweave | [Learn](https://academy.developerdao.com/tracks/arweave-101/5)
+    - Creating the DApp
+    - Deploying the DApp
+    - Creating a Human-Friendly Name for the DApp
+
 
 | Task | Topic | Status |
 |-------|-------|-------|
