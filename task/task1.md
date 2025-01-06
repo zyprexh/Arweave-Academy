@@ -2,7 +2,7 @@
 Please put your answer here:  
 | 1 | 2 | 3 | 4 | 5 | 6 |
 |----|----|----|----|----|----|
-|   |   |   |   |   |   |
+| acd | ab | abc | bc | ab  | ab  |
 
 <br>
 

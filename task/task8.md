@@ -1,7 +1,7 @@
 Please put your answer here:  
 | 1 | 2 | 3 | 4 | 5 | 6 |
 |----|----|----|----|----|----|
-|   |   |   |   |   |   |
+| abc  | ab  | ac  | ab | a  | ab  |
 
 <br>
 
