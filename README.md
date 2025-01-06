@@ -18,13 +18,13 @@
 
 
 ## Overview
-The School of DumDum is a part of Arweave Academy developer education program's. We offer developers free, high-quality courses and practical tasks to help them start building applications on Arweave and AO from scratch.
+The School of DumDum is a part of Arweave Academy developer education program. We offer developers free, high-quality courses and practical tasks to help them start building applications on Arweave and AO from scratch.  
 
-After completing the learning program, capable developers can participate in the Best Practices Contest.
+Special thanks to [@K4y1s](https://x.com/K4y1s), [@sayestheorem](https://x.com/sayestheorem), [@rosmcmahon_real](https://x.com/rosmcmahon_real) and [@developer_dao](https://x.com/developer_dao) for support, and to [@OpenBuildxyz](https://x.com/OpenBuildxyz) for their guidance and assistance with the event process.
 
 We divided this event into two parts: one for beginners and one for advanced developers.
-- Developers who are new to the Arweave and AO ecosystems can enter the Learning section, where they will complete their learning by studying courses and submitting tasks.
-- For advanced developers, they can directly participate in the Practice section, which is a competition. You can choose a topic of your interest from the challange list and complete the practice by developing and writing tutorials. The best practices will be selected by judges and rewarded. 
+- **Beginners** can enter the Learning section, where they will complete their learning by studying courses and submitting tasks.
+- **Advanced Developers**, they can directly participate in the Practice section, which is a competition. You can choose a topic of your interest from the challange list and complete the practice by developing and writing tutorials. The best practices will be selected by judges and rewarded. 
 
 The specific process is shown in the diagram below:
 
