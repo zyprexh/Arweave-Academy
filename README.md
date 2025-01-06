@@ -172,10 +172,10 @@ How to submit the challenge:
 4. ⚠️ Each **Challenge** must be submitted separately. A single `PR` containing multiple **Challenges** will be closed directly.
 
 
-| Challenge | Type | Tag | Topic | Status |
-|-------|--------|-------|-------|-------|
-|   1   | Frondend |  Arweave   | [File-based Routing](./practice/challenge1.md) | --- |
-|   2   | Frondend |  Arweave    | [Static Site Generation](./practice/challenge2.md) | --- |
-|   3   | Frondend |  Arweave   | [Client-Side Rendering](./practice/challenge3.md) | --- |
-|   4   | Frondend |  Arweave   | [Hash-Based SPA Routing](./practice/challenge4.md) | --- |
+| Challenge | Type | Tag | Topic | Reward | Status |
+|-------|--------|-------|-------|-------|-------|
+|   1   | Frondend |  Arweave   | [File-based Routing](./practice/challenge1.md) | --- | --- |
+|   2   | Frondend |  Arweave    | [Static Site Generation](./practice/challenge2.md) | --- | --- |
+|   3   | Frondend |  Arweave   | [Client-Side Rendering](./practice/challenge3.md) | --- | --- |
+|   4   | Frondend |  Arweave   | [Hash-Based SPA Routing](./practice/challenge4.md) | --- | --- |
 <br>
