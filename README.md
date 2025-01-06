@@ -153,8 +153,8 @@ Developers who complete all the courses and submit the tasks will receive a Leve
 
 <br>
 
-**Module 3: TBD**  
-**Module 4: TBD**
+**Module 3: Introduction to AO (TBD)**  
+**Module 4: Connecting Arweave and AO (TBD)**
 
 
 <br>
