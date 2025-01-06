@@ -69,7 +69,7 @@ Before participating in the event, here’s what you need to prepare:
 ## Registration
 Developers need to complete GitHub registration by following these steps:
 
-1. `Star` and `Fork` this repository and `clone` it to your local.
+1. `Star`, `Watch` and `Fork` this repository and `clone` it to your local.
 2. Navigate to the `submissions` folder and create a new folder named after your GitHub username: `YourName`.
 3. Copy the [Template.md](./template.md) file into the newly created folder and rename it to your name: `YourName.md`.
 4. Open the `submissions/YourName/YourName.md` file, fill in your information as instructed, and save it.
