@@ -39,8 +39,7 @@ Before participating in the event, here’s what you need to prepare:
 
 Developers need to complete GitHub registration by following these steps:
 
-1. **Star**, **Watch** and **Fork** this repository and `git clone` it to your local machine.
-    👉 Not familiar with git/Github? Check out [Using Arweave Academy Github.md](./doc/Using%20Arweave%20Academy%20Github.md).
+1. **Star**, **Watch** and **Fork** this repository and `git clone` it to your local machine. <br> 👉 Not familiar with Git/Github? Check out [Using Arweave Academy Github](./doc/Using%20Arweave%20Academy%20Github.md).
 2. Navigate to the `submissions` folder and create a new folder named after your GitHub username, e.g. `submissions/YourName`.
 3. Copy the [Template.md](./template.md) file into the newly created folder and rename it to your name: `YourName.md`.
 4. Open the `submissions/YourName/YourName.md` file, fill in your information as instructed, and save it.
