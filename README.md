@@ -69,7 +69,7 @@ Before participating in the event, here’s what you need to prepare:
 ## Registration
 Developers need to complete GitHub registration by following these steps:
 
-1. `Star` and `Fork` this repository and `clone` it to your local.
+1. `Star`, `Watch` and `Fork` this repository and `clone` it to your local.
 2. Navigate to the `submissions` folder and create a new folder named after your GitHub username: `YourName`.
 3. Copy the [Template.md](./template.md) file into the newly created folder and rename it to your name: `YourName.md`.
 4. Open the `submissions/YourName/YourName.md` file, fill in your information as instructed, and save it.
@@ -175,7 +175,7 @@ How to submit the challenge:
 | Challenge | Type | Tag | Topic | Reward | Status |
 |-------|--------|-------|-------|-------|-------|
 |   1   | Frondend |  Arweave   | [File-based Routing](./practice/challenge1.md) | --- | --- |
-|   2   | Frondend |  Arweave    | [Static Site Generation](./practice/challenge2.md) | --- | --- |
+|   2   | Frondend |  Arweave   | [Static Site Generation](./practice/challenge2.md) | --- | --- |
 |   3   | Frondend |  Arweave   | [Client-Side Rendering](./practice/challenge3.md) | --- | --- |
 |   4   | Frondend |  Arweave   | [Hash-Based SPA Routing](./practice/challenge4.md) | --- | --- |
 <br>
