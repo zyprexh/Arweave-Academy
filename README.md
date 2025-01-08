@@ -78,7 +78,7 @@ Developers who complete all the courses and submit the tasks will receive a Leve
     - What are Popular Arweave Bundling Services and SDKs?
     - What are Popular Arweave Wallets?
 
-3. Why should developers care about Arweave？| [Learn]()
+<!-- 3. Why should developers care about Arweave？| [Learn]() -->
 
 | Task | Topic | Status |
 |-------|-------|-------|
