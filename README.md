@@ -120,20 +120,21 @@ Developers who complete all the courses and submit the tasks will receive a Leve
 
 ## Practice
 
-The Practice section is designed for advanced developers. If you have extensive development experience, why not give it a try?
+The Practice section is designed for advanced developers. If you have significant development experience, consider giving it a try.
 
-We will continuously release Practice challenges, and for each challenge, a Best Practice will be selected and merged to the [awesome-ao](https://github.com/ArweaveOasis/awesome-ao) repo. The winner will receive rewards sponsored by Forward Research.
+Practice challenges will be released continuously, and for each challenge, the Best Practice will be selected and merged into the [awesome-ao](https://github.com/ArweaveOasis/awesome-ao) repository. Winners will receive rewards sponsored by Forward Research.
 
 How to submit the challenge:
 
 1. Create a `challenge1` folder under `submissions/YourName`.
-2. Copy the [challenge1.md](./practice/challenge1.md) file into your `challenge1` folder. You can also create a `readme.md` file to give an introduction about your code.
-3. Submit a Pull Request to this repository.
-4. ⚠️ Each challenge must be submitted separately. A single PR containing multiple challenges will be closed.
+2. Copy the [challenge1.md](./practice/challenge1.md) file into your `challenge1` folder. You can also create a `readme.md` file to give an introduction/tutorial for your code.
+3. Upload your code and the necessary content to the `submissions/YourName/challenge1` folder.
+4. Submit a Pull Request to this repository.
+5. ⚠️ Each challenge must be submitted separately. A single PR containing multiple challenges will be closed.
 
 | Challenge | Type | Tag | Topic | Reward | Status |
 |-------|--------|-------|-------|-------|-------|
-|   1   | Frondend |  Arweave   | [File-based Routing](./practice/challenge1.md) | --- | --- |
-|   2   | Frondend |  Arweave   | [Static Site Generation](./practice/challenge2.md) | --- | --- |
-|   3   | Frondend |  Arweave   | [Client-Side Rendering](./practice/challenge3.md) | --- | --- |
-|   4   | Frondend |  Arweave   | [Hash-Based SPA Routing](./practice/challenge4.md) | --- | --- |
+|   1   | Frondend |  Arweave   | [File-based Routing](./practice/challenge1.md) | --- | Start |
+|   2   | Frondend |  Arweave   | [Static Site Generation](./practice/challenge2.md) | --- | Start |
+|   3   | Frondend |  Arweave   | [Client-Side Rendering](./practice/challenge3.md) | --- | Start |
+|   4   | Frondend |  Arweave   | [Hash-Based SPA Routing](./practice/challenge4.md) | --- | Start |
