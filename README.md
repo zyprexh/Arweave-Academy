@@ -82,8 +82,8 @@ Developers who complete all the courses and submit the tasks will receive a Leve
 
 | Task | Topic | Status |
 |-------|-------|-------|
-| [task1](./task/task1.md) | 6 Quizs for "Intro to Arweave" | Not Start |
-| [task2](./task/task2.md) | 8 Quizs for "Intro to Arweave" | Not Start |
+| [task1](https://openbuild.xyz/quiz/202501081) | 6 Quizs for "Intro to Arweave" | Not Start |
+| [task2](https://openbuild.xyz/quiz/202501082) | 8 Quizs for "Intro to Arweave" | Not Start |
 | [task3](./task/task3.md) | 9 Quizs for "Storing Data on Arweave" | Not Start |
 
 #### Module 2: Basic development on Arweave
