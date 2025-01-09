@@ -139,5 +139,3 @@ How to submit the challenge:
 |   2   | Frondend |  Arweave   | [Static Site Generation](./practice/challenge2.md) | --- | Ongoing |
 |   3   | Frondend |  Arweave   | [Client-Side Rendering](./practice/challenge3.md) | --- | Ongoing |
 |   4   | Frondend |  Arweave   | [Hash-Based SPA Routing](./practice/challenge4.md) | --- | Ongoing |
-
-achwir
