@@ -2,10 +2,11 @@
 
 ### Personal information
 
-- github account:
-- Email:
-- Arweave Address:
-- ETH Address:
-- Please finish this [form](https://docs.google.com/forms/d/e/1FAIpQLSfWA5fIIcBgmRppm3jNz5vmf9Mai_QMVil-2pO4r7YKn_Zhtw/viewform?usp=sf_link) to join in the talent pool.
+- github account: yusuefairdrop
+- Email: yusuefarsha.airdrop@gmail.com
+- Arweave Address: ws91oVYmcUok3aHVc4x0nMrJsapTNuaAPfLBJFmE0QM
+- ETH Address: 0x441c807C89BC429744152C6712F6A11Eb14725b8
+
 
 ### Introduce Yourself
+Currently learning to create websites using HTML, CSS and Javascript programming languages
