@@ -1,6 +1,6 @@
 ## Arweave Academy Personal File
 **Personal information**
-- github account: linaf
+- github account: Linapatafi
 - Email: linapatafi20@gmail.com
 - Arweave Address: 7gA3Drv4jkPx2iidOPYOFhD-AV5YEGeUgeROxXy_KVk
 - ETH Address:0x85Dfcc28d104a430A9F7749f51688cAAb7490b72
