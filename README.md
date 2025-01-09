@@ -123,7 +123,7 @@ Developers who complete all the courses and submit the tasks will receive a Leve
 
 The Practice section is designed for advanced developers. If you have significant development experience, consider giving it a try.
 
-Practice challenges will be released continuously, and for each challenge, the Best Practice will be selected and merged into the [awesome-ao](https://github.com/ArweaveOasis/awesome-ao) repository. Winners will receive 150 USDC as rewards sponsored by Forward Research.
+Practice challenges will be released continuously, and for each challenge, the Best Practice will be selected and merged into the [awesome-ao](https://github.com/ArweaveOasis/awesome-ao) repository. Winners will receive **150 USDC** as rewards sponsored by Forward Research.
 
 How to submit the challenge:
 
