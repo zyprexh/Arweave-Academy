@@ -123,7 +123,7 @@ Developers who complete all the courses and submit the tasks will receive a Leve
 
 The Practice section is designed for advanced developers. If you have significant development experience, consider giving it a try.
 
-Practice challenges will be released continuously, and for each challenge, the Best Practice will be selected and merged into the [awesome-ao](https://github.com/ArweaveOasis/awesome-ao) repository. Winners will receive rewards sponsored by Forward Research.
+Practice challenges will be released continuously, and for each challenge, the Best Practice will be selected and merged into the [awesome-ao](https://github.com/ArweaveOasis/awesome-ao) repository. Winners will receive 150 USDC as rewards sponsored by Forward Research.
 
 How to submit the challenge:
 
@@ -133,9 +133,9 @@ How to submit the challenge:
 4. Submit a Pull Request to this repository.
 5. ⚠️ Each challenge must be submitted separately. A single PR containing multiple challenges will be closed.
 
-| Challenge | Type | Tag | Topic | Reward | Status |
+| Challenge | Type | Tag | Topic | Prize | Status |
 |-------|--------|-------|-------|-------|-------|
-|   1   | Frondend |  Arweave   | [File-based Routing](./practice/challenge1.md) | --- | Ongoing |
-|   2   | Frondend |  Arweave   | [Static Site Generation](./practice/challenge2.md) | --- | Ongoing |
-|   3   | Frondend |  Arweave   | [Client-Side Rendering](./practice/challenge3.md) | --- | Ongoing |
-|   4   | Frondend |  Arweave   | [Hash-Based SPA Routing](./practice/challenge4.md) | --- | Ongoing |
+|   1   | Frondend |  Arweave   | [File-based Routing](./practice/challenge1.md) | 150 U | Ongoing |
+|   2   | Frondend |  Arweave   | [Static Site Generation](./practice/challenge2.md) | 150 U | Ongoing |
+|   3   | Frondend |  Arweave   | [Client-Side Rendering](./practice/challenge3.md) | 150 U | Ongoing |
+|   4   | Frondend |  Arweave   | [Hash-Based SPA Routing](./practice/challenge4.md) | 150 U | Ongoing |
