@@ -2,6 +2,14 @@
 
 You can visit the website at:
 [Cuitme Blog](https://arweave.developerdao.com/Xp9eyF9QwKVwuRTMxO65KmbWCnoSS6_jbx9GjD3bNTw)
+[blog post](https://saaavtrkomt43rywy2hmqy4xjx66kfxb7eqdf6pcuvdoqigxfraa.arweave.developerdao.com/kAAKzipzJ83HFsaOyGOXTf3lFuH5IDL54qVG6CDXLEA?)
+[about](https://mzpqtvp4sgeyyt2oxvkovuuyocwrhuubrt4buh5sppkvdvjvluka.arweave.developerdao.com/Zl8J1fyRiYxPTr1U6tKYcK0T0oGM-BofsnvVUdU1XRQ?)
+
+## Screenshoot Run Local Site
+
+![Homepage Screenshot](screenshoot/ss-home.jpg)
+![About Screenshot](screenshoot/ss-about.jpg)
+![Blog Post Screenshot](screenshoot/blog-post.png)
 
 ## Project Description
 
