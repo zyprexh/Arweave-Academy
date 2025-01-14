@@ -20,4 +20,4 @@ Here's my deployment website to ARweave Network[link](https://arweave.net/oaayQx
 2. Don't upload a sensitive information, arweave store your content permanent and public
 3. Files under 100KB are free to upload which mean all cost are subject to the Arweave Network
 
-### In this challenge you can use tools like ([11ty.dev](https://www.11ty.dev/)) or ([Hexo](https://hexo.io/)) or chatgpt etc to create a Static Site Generator.
+### In this challenge you can use tools like ([11ty.dev](https://www.11ty.dev/)) or [Hexo](https://hexo.io/) or chatgpt etc to create a Static Site Generator.
