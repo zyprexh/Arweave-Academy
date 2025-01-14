@@ -1,0 +1,48 @@
+# Key
+/key.json
+!**/key.json
+
+# Log Files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment Variables
+.env
+.env.*.local
+
+# Build Output
+dist/
+build/
+out/
+
+# Eleventy Cache
+.cache/
+
+# Dependency Directory
+jspm_packages/
+
+# Editor/IDE Files
+.vscode/
+.idea/
+*.sublime-workspace
+
+# OS Generated Files
+.DS_Store
+Thumbs.db
+
+# Test Coverage
+coverage/
+
+# Temporary Files
+*.tmp
+*.temp
+
+# Lock Files
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Optional: Ignore Wallet/Key Files
+wallet.json
+key.json
