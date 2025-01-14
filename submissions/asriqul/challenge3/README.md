@@ -31,7 +31,7 @@ npm run dragbuild
 1. First, head to [Dragondeploy.xyz](https://dragondeploy.xyz) via Browser.
 2. Connect your [wallet](https://arweave.app) to Dragondeploy
 3. Start uploading your website by selecting your local web folder
-4. Check your arweave wallet and accept the sign message that show on the wallet
+4. Check your arweave wallet and accept the sign message that show on the wallet.
 5. After upload proccess finished. you can see your url of your website that deployed on Arweave
 
 ## Notes
