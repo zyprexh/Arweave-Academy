@@ -1,6 +1,6 @@
 <!-- [中文](https://github.com/ArweaveOasis/Arweave-AO-Dev-Learning/blob/main/README_CN.md) / English -->
 
-# School of DumDum FORKED
+# School of DumDum
 
 <div>
   <p>
