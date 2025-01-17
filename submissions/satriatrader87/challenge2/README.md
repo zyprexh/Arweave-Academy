@@ -267,10 +267,14 @@ You can access it at [Deployed URL](https://arweave.net/rzLvtjTdPSWYEfDimQcDNSmE
 
 ## Screenshots
 
+**Home Page**
 ![Home Page Screenshot](src/images/home-ss.png)
 
+**Batik Page**
 ![Batik Page Screenshot](src/images/batik-ss.png)
 
+**Wayang Page**
 ![Wayang Page Screenshot](src/images/wayang-ss.png)
 
+**Ikebana Page**
 ![Ikebana Page Screenshot](src/images/ikebana-ss.png)
