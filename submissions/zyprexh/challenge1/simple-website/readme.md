@@ -4,10 +4,10 @@ You can access this website it at: [Zyprexh](https://mgqs3joimjwy62dh47yttrrrmkv
 
 ## Screenshots Website Menu
 
-![Homepage Screenshot](assets/ss/Page_1.jpg)
-![About Us Screenshot](assets/ss/Page_2.jpg)
-![News Screenshot](assets/ss/Page_3.jpg)
-![Contact Screenshot](assets/ss/Page_4.jpg)
+![Homepage Screenshot](assets/ss/Page_1.png)
+![About Us Screenshot](assets/ss/Page_2.png)
+![News Screenshot](assets/ss/Page_3.png)
+![Contact Screenshot](assets/ss/Page_4.png)
 
 ## Description
 
