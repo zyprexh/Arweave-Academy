@@ -1,0 +1,9 @@
+{% extends "base.njk" %}
+
+{% block content %}
+    <article>
+        <h2>{{ title }}</h2>
+        <p>Published on: {{ date | date }}</p>
+        <div>{{ content | safe }}</div>
+    </article>
+{% endblock %}
